@@ -1,66 +1,31 @@
-## Hi, I’m Mayank 👋  
+## Mayank Hansraj 👋
 
-Computer Science undergraduate from Pune, India.  
-I enjoy working on full-stack and backend development, understanding how systems work end-to-end, and improving them step by step.
-
----
-
-## 🧠 What I’m Comfortable With
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,cpp,python" />
-</p>
-
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
-
-### ⚙️ Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-- RESTful APIs  
-- Authentication (JWT, protected routes)  
-- Middleware & backend logic  
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-- Schema design  
-- CRUD operations  
-- Data validation  
+CS • MERN • Backend-leaning  
+Interested in DevOps fundamentals and AI-powered systems.
 
 ---
 
-## ☁️ Cloud & Tools
+### 🛠 Tech I Work With
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=js,cpp,python,react,nodejs,express,mongodb,html,css,tailwind,git,github,docker" />
 </p>
 
-- Deployment & environment configuration  
-- Cloud storage (image handling, media uploads)  
+---
+
+### 🧠 What I’m Good At
+- Full-stack development (MERN)
+- Backend logic, REST APIs, authentication (JWT)
+- Database design & CRUD workflows
+- Learning new tools and applying them fast
+- Working in team-based environments
 
 ---
 
-## 🌱 Currently Exploring
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux" />
-</p>
-
-- DevOps fundamentals  
-- CI/CD concepts  
-- AI-powered applications & APIs  
+### 🌱 Currently Exploring
+- DevOps basics (Docker, CI/CD concepts)
+- AI/ML integrations in web apps
 
 ---
 
-## 🤝 How I Work
-- Comfortable working in team environments  
-- Used to collaborative workflows and peer feedback  
-- Focused on learning, consistency, and clean implementation  
-
----
+📫 **Reach me:**  
+[LinkedIn](https://www.linkedin.com/in/mayankhansraj) • mayankhansraj12@gmail.com
