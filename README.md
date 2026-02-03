@@ -24,8 +24,3 @@ Interested in DevOps fundamentals and AI-powered systems.
 ### 🌱 Currently Exploring
 - DevOps basics (Docker, CI/CD concepts)
 - AI/ML integrations in web apps
-
----
-
-📫 **Reach me:**  
-[LinkedIn](https://www.linkedin.com/in/mayankhansraj) • mayankhansraj12@gmail.com
