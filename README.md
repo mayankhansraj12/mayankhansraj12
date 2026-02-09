@@ -6,7 +6,7 @@ Interested in building reliable products, clean user experiences, and practical 
 
 ---
 
-### 🛠 Tech I Work With
+### 🛠 Tech Stack & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,cpp,python,react,nodejs,express,mongodb,postgres,mysql,html,css,tailwind,redis,git,github,docker" />
 </p>
